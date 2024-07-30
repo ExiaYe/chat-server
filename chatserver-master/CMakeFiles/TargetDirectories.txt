@@ -1,0 +1,10 @@
+/home/exiaye/code/chatserver-master/CMakeFiles/rebuild_cache.dir
+/home/exiaye/code/chatserver-master/CMakeFiles/edit_cache.dir
+/home/exiaye/code/chatserver-master/src/CMakeFiles/rebuild_cache.dir
+/home/exiaye/code/chatserver-master/src/CMakeFiles/edit_cache.dir
+/home/exiaye/code/chatserver-master/src/server/CMakeFiles/rebuild_cache.dir
+/home/exiaye/code/chatserver-master/src/server/CMakeFiles/edit_cache.dir
+/home/exiaye/code/chatserver-master/src/server/CMakeFiles/ChatServer.dir
+/home/exiaye/code/chatserver-master/src/client/CMakeFiles/rebuild_cache.dir
+/home/exiaye/code/chatserver-master/src/client/CMakeFiles/edit_cache.dir
+/home/exiaye/code/chatserver-master/src/client/CMakeFiles/ChatClient.dir

@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/exiaye/code/chatserver-master",
+    "files.associations": {
+        "thread": "cpp"
+    }
+}
